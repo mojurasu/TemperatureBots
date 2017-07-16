@@ -1,0 +1,18 @@
+{
+  "name": "temperature_telegram_bot",
+  "version": "1.0.0",
+  "description": "Telegram bots to convert temperatures",
+  "main": "app.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1",
+    "string-format": "^0.5.0",
+    "temp-units-conv": "^0.1.2",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phantom (phantom.person.1@gmail.com)",
+  "license": "WTFPL"
+}
